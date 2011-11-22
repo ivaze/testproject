@@ -1,5 +1,5 @@
 
 public class Newclass {
 
-	private String message123;
+	private String message123456;
 }
